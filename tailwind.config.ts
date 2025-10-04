@@ -31,6 +31,10 @@ export default {
             transform: "translate(0px, 0px) scale(1)",
           },
         }
+      },
+      animationDelay: {
+        '2000': '2s',
+        '4000': '4s',
       }
     },
   },

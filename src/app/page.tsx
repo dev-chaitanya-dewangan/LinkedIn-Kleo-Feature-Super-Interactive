@@ -146,8 +146,8 @@ export default function HomePage() {
           >
             {/* Particle-like background effects with parallax */}
             <div className="absolute -top-20 -left-20 w-72 h-72 bg-purple-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob parallax-element"></div>
-            <div className="absolute top-20 -right-20 w-72 h-72 bg-yellow-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animation-delay-2000 parallax-element"></div>
-            <div className="absolute -bottom-20 left-1/2 w-72 h-72 bg-pink-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animation-delay-4000 parallax-element"></div>
+            <div className="absolute top-20 -right-20 w-72 h-72 bg-yellow-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animate-delay-2000 parallax-element"></div>
+            <div className="absolute -bottom-20 left-1/2 w-72 h-72 bg-pink-200 rounded-full mix-blend-multiply filter blur-3xl opacity-30 animate-blob animate-delay-4000 parallax-element"></div>
 
             <motion.h1 
               className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 relative z-10"
